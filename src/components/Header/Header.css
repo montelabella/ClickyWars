@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    font-style: oblique;
+    font-weight: bold;
+    color: Green;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }

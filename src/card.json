@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/bb8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/brat.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/c3po.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/chewy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/fett.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/hut.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/luke.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/maz.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/phasma.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/pilot.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/princess.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/r2d2.png",
+      "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./assets/images/raider.jpg",
+        "clicked": false
+      },
+      {
+        "id": 14,
+        "image": "./assets/images/rebel.jpg",
+        "clicked": false
+      },
+      {
+        "id": 15,
+        "image": "./assets/images/snuggly.jpg",
+        "clicked": false
+      },
+      {
+        "id": 16,
+        "image": "./assets/images/solo.jpg",
+        "clicked": false
+      },
+      {
+        "id": 17,
+        "image": "./assets/images/tauntaun.png",
+        "clicked": false
+      },
+      {
+        "id": 18,
+        "image": "./assets/images/trooper.jpg",
+        "clicked": false
+      },
+      {
+        "id": 19,
+        "image": "./assets/images/vader.jpg",
+        "clicked": false
+      },
+      {
+        "id": 20,
+        "image": "./assets/images/wampa.png",
+        "clicked": false
+      },
+      {
+        "id": 21,
+        "image": "./assets/images/yoda.jpg",
+        "clicked": false
+      }
+
+  ]
