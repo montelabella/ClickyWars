@@ -14,3 +14,6 @@ The games starts with 21 images for the player to click on, The player cannot cl
 a small bug is when a user is able to click on all 21 cards, currently will not end the game nor will it display a "winner" message.  
 
 Crystal Hughes
+
+https://montelabella.github.io/ClickyWars/
+
